@@ -1,4 +1,4 @@
 # New project
 
 This project was created from local system.
-create by Bidyut Maji
+create by Bidyut Maji.
